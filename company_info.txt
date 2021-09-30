@@ -1,0 +1,11 @@
+Short_code,Company_name,market_caps,vaccine_type
+MRNA,Moderna,1.73,mrna
+INO,Inovio,1.69,dna
+PFE,Pfizer,246.36,mrna
+AZN,AstraZeneca,187.99,non-replicating viral vector
+NVAX,Novavax,18.48,protein-based
+MDGS,Medicago,1.41,virus-like particle
+JNJ,Johnson & Johnson,432.67,non-replicating viral vector
+MRK,Merck,186.33,replicating viral vector
+SNY,Sanofi,120.86,protein-based
+GSK,GlaxoSmithKline plc,96.58,protein-based
