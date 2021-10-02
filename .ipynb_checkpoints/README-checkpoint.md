@@ -8,17 +8,16 @@ This project aims to create an ETF for covid vaccination companies, based on a â
 
 Initially, we follow a list of COVID vaccines developers. We looked at the backgrond of each of the companies and selected 10 companies. The companies that are filtered out are companies that are either not publicly traded at least 1 year before the pandemic started (so we can have enough data), state companies, and private companies. Finally the following 10 companies are selected:
 
-Moderna (MRNA)			$1.73 B
-Inovio (INO)				$1.69B
-Pfizer (PFE)				$246.36B
-AstraZeneca (AZN)			$187.99B
-Novavax (NVAX)			$18.48B
-Medicago (MDGS)			$1.41B
-Johnson & Johnson (JNJ)		$432.67B
-Merck (MRK)				$186.33B
-Sanofi (SNY)				$120.86B
-GlaxoSmithKline plc (GSK)	$96.58B	
-
+1. Moderna (MRNA)			$1.73 B
+2. Inovio (INO)				$1.69B
+3. Pfizer (PFE)				$246.36B
+4. AstraZeneca (AZN)			$187.99B
+5. Novavax (NVAX)			$18.48B
+6. Medicago (MDGS)			$1.41B
+7. Johnson & Johnson (JNJ)		$432.67B
+8. Merck (MRK)				$186.33B
+9. Sanofi (SNY)				$120.86B
+10. GlaxoSmithKline plc (GSK)	$96.58B	
 
 
 ## Question 2: What should be the weight of each company in the ETF?
