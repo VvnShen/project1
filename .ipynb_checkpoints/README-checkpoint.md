@@ -29,6 +29,11 @@ We have considered two options.
 
 ![Weighted by market cap pie chart](./index_by_market_caps.png)
 
+Since some of the largest company may dominate the ETF, we set a maximum weight of any company to 15%. 
+
+![Weighted by market cap pie chart](./index_by_market_caps_max15.png)
+
+
 ## Question 3: How will our ETF perform comparing to a benchmark index?
 
 
