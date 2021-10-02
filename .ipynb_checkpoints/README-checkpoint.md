@@ -22,6 +22,13 @@ Initially, we follow a list of COVID vaccines developers. We looked at the backg
 
 ## Question 2: What should be the weight of each company in the ETF?
 
+We have considered two options.
+
+1. Equally weighted - each company is 10% of the ETF
+2. Weighted by market cap
+
+![Weighted by market cap pie chart](./index_by_market_caps.png)
+
 ## Question 3: How will our ETF perform comparing to a benchmark index?
 
 
