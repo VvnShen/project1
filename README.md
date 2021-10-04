@@ -36,4 +36,8 @@ Since some of the largest company may dominate the ETF, we set a maximum weight 
 
 ## Question 3: How will our ETF perform comparing to a benchmark index?
 
+We use the Nasdaq Biotechnolgoy Index as our benchmark index. As shown, an ETF by equal weight is performing better in returns.
 
+![Weighted by market cap pie chart](./Sharpe_b4_covid.png)
+
+![Weighted by market cap pie chart](./sharpe_ratio_covid_times.png)
