@@ -40,4 +40,6 @@ We use the Nasdaq Biotechnolgoy Index as our benchmark index. As shown, an ETF b
 
 ![Weighted by market cap pie chart](./Sharpe_b4_covid.png)
 
+It is especially obvious during the COVID19 pandemic.
+
 ![Weighted by market cap pie chart](./sharpe_ratio_covid_times.png)
